@@ -1,70 +1,138 @@
 # 👋 Hi, I'm Shashank Dubey
 
-🚀 Senior Software Engineer | Team Lead | Node.js • NestJS • TypeScript
+### Senior Backend Engineer | Team Lead | Node.js • NestJS • TypeScript
+
+Building scalable backend systems, cloud-native applications, and microservices architectures.
 
 ---
 
-## 💡 About Me
+## 🚀 About Me
 
-I’m a Senior Full Stack Developer with 5+ years of experience building scalable, production-grade applications. I specialize in backend architecture using **Node.js, NestJS, and TypeScript**, with strong experience in designing APIs, microservices, and distributed systems.
+Senior Software Engineer with 6+ years of experience designing and developing scalable backend applications using Node.js, NestJS, and TypeScript.
 
-I currently lead a team of developers, driving end-to-end project delivery — from system design to deployment — while ensuring clean architecture, performance, and maintainability.
+I specialize in backend architecture, API design, microservices, distributed systems, and cloud infrastructure. Over the years, I have delivered multi-tenant SaaS platforms, CRM systems, HRMS solutions, EdTech products, and real-time communication applications for clients across multiple business domains.
 
----
-
-## 🧠 What I Do
-
-- ⚙️ Design and build scalable backend systems (NestJS / Node.js)
-- 🏗️ Architect RESTful APIs and microservices
-- 🗄️ Work with SQL & NoSQL databases (PostgreSQL, MongoDB)
-- 🔐 Implement authentication & authorization (JWT, RBAC)
-- 🚀 Optimize performance and system reliability
-- 👥 Lead teams, mentor developers, and improve engineering practices
-- ☁️ Deploy and manage applications on cloud (AWS, Linux, NGINX)
+Currently leading engineering teams while owning technical design, architecture decisions, deployment strategies, and delivery of production-grade software solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Domain Experience
 
-**Backend:**  
-Node.js • NestJS • Express • TypeScript • GraphQL (Basics)
-
-**Frontend:**  
-React • Next.js • Redux • TailwindCSS
-
-**Databases:**  
-PostgreSQL • MongoDB • MySQL • Firebase
-
-**DevOps & Tools:**  
-AWS (EC2, S3) • Docker (learning) • GitHub Actions • NGINX • Linux
+* Multi-Tenant SaaS Platforms
+* CRM & Enterprise Applications
+* HRMS & Workforce Management Systems
+* EdTech Platforms
+* Real-Time Communication Systems
+* Custom Business Applications
+* API-First Architectures
 
 ---
 
-## 📌 Featured Work
+## 🏗️ Core Expertise
 
-> 🚧 (Add your best projects here — very important)
+### Backend Engineering
 
-- 🔹 Scalable Backend System using NestJS (Microservices Architecture)  
-- 🔹 Real-time Application using Socket.IO  
-- 🔹 Full-stack MERN Application with optimized APIs  
+* Node.js
+* NestJS
+* TypeScript
+* Express.js
+* REST APIs
+* GraphQL
+* Socket.IO
+
+### Architecture & System Design
+
+* Microservices Architecture
+* Distributed Systems
+* Event-Driven Architecture
+* Multi-Tenant Architecture
+* API Design
+* Authentication & Authorization
+* RBAC
+* Scalability & Performance Optimization
+* Database Design
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* MySQL
+* Firebase
 
 ---
 
-## 🌱 Currently Exploring
+## ☁️ Cloud & DevOps
 
-- DevOps & System Design  
-- Distributed Systems & Scalability  
-- Cloud Architecture (AWS)
+### AWS
+
+* EC2
+* S3
+* CloudFront
+* RDS
+* IAM
+
+### Networking & Infrastructure
+
+* VPC
+* Security Groups
+* Internet Gateway
+* Route Tables
+* Application Load Balancer (ALB)
+* Network Load Balancer (NLB)
+
+### Messaging & Serverless
+
+* SNS
+* SQS
+* Lambda
+
+### CI/CD & Operations
+
+* GitHub Actions
+* Jenkins
+* Linux
+* NGINX
 
 ---
 
-## 🤝 Let's Connect
+## 👥 Leadership
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shashankd48  
-- 📧 Email: shashankd48@gmail.com  
+* Led and mentored teams of 4–6 engineers
+* Conducted code reviews and architecture reviews
+* Improved engineering practices and development workflows
+* Collaborated directly with stakeholders and clients
+* Owned technical decision-making across multiple projects
 
 ---
 
-## ⚡ Fun Fact
+## 🌱 Currently Learning
 
-I enjoy solving complex backend problems, optimizing systems for scale, and contributing to better engineering practices 🚀
+* Advanced System Design
+* Cloud-Native Architectures
+* AWS Solutions Architecture
+* Containerization & Kubernetes
+* Platform Engineering
+
+---
+
+## 📈 Engineering Interests
+
+* Distributed Systems
+* Scalable Backend Architectures
+* Event-Driven Systems
+* Performance Optimization
+* Cloud Infrastructure
+* Developer Productivity
+* Software Architecture
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: linkedin.com/in/shashankd48
+* GitHub: github.com/Shashankd48
+* Email: [shashankd48@gmail.com](mailto:shashankd48@gmail.com)
+
+---
+
+> "Designing systems that scale, remain maintainable, and solve real business problems."
