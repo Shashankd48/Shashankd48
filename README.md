@@ -129,9 +129,9 @@ Currently leading engineering teams while owning technical design, architecture 
 
 ## 🤝 Connect With Me
 
-* LinkedIn: linkedin.com/in/shashankd48
-* GitHub: github.com/Shashankd48
-* Email: [shashankd48@gmail.com](mailto:shashankd48@gmail.com)
+📧 **Email:** [shashankwork48@gmail.com](mailto:shashankwork48@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/shashankd48](https://linkedin.com/in/shashankd48)  
+🐙 **GitHub:** [github.com/Shashankd48](https://github.com/Shashankd48)
 
 ---
 
